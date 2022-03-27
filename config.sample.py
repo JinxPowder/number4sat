@@ -1,0 +1,9 @@
+Numberland_api = "abcdefghijklmnopqrstuvwxyz123456789"
+Wallet_ID = "abcdefghijklmnopqrstuvwxyz123456789" # legend lntbits
+Admin_key = "abcdefghijklmnopqrstuvwxyz123456789" # legend lntbits
+Invoice_read_key = "abcdefghijklmnopqrstuvwxyz123456789" # legend lntbits
+Telegram_api = "123456789:abcdefghijklmnopqrstuvwxyz" # Telegram Bot Api
+HEADERS = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36'}
+API_ID = 12345678 # Telegram API-ID
+API_HASH = 'abcdefghijklmnopqrstuvwxyz123456789' # Telegram API-HASH
+Bot_Username = "NumberBot"
